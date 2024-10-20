@@ -67,3 +67,7 @@ button:hover {
     display: flex;
     gap: 40px;
 }
+
+.sosmed a{
+    color: white;
+}
