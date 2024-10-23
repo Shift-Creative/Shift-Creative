@@ -71,7 +71,7 @@ body{
   
   /* Class untuk mengaktifkan animasi slide-in */
   .slide-in-right {
-    animation: slideInRight 0.5s ease-out; /* Durasi 0.5s dan transisi lembut */
+    animation: slideInRight 0.7s ease-out; /* Durasi 0.5s dan transisi lembut */
   }
 
   /* Keyframes untuk animasi slide in dari kiri */
@@ -88,7 +88,7 @@ body{
   
   /* Kelas untuk menerapkan animasi */
   .slide-in-left {
-    animation: slideInLeft 0.2s ease-out forwards;
+    animation: slideInLeft 0.7s ease-out forwards;
   }  
 
 .link {
